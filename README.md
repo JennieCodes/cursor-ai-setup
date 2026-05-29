@@ -60,6 +60,22 @@ After installation, Claude Code required either:
 Solution:
 Successfully completed the extension installation and documented the authentication requirement while continuing the remaining setup tasks.
 
+### Issue: README file saved outside repository folder
+
+Problem:
+The README.md file was initially saved in `C:\Users\jenny\` instead of inside the Git repository folder `C:\Users\jenny\cursor-ai-setup\`.
+
+This caused Git to show:
+
+* `nothing to commit`
+* `src refspec main does not match any`
+
+because the repository did not contain any tracked files.
+
+Solution:
+Moved the README.md file into the repository directory and reran Git commands to successfully track and push the repository contents.
+
+
 ---
 
 ## Git Commands Used
