@@ -4,14 +4,14 @@
 
 * Company: The Welsh Company
 * LinkedIn: https://www.linkedin.com/in/justinwelsh/
-* YouTube: https://www.youtube.com/@JustinWelsh
+* YouTube: https://www.youtube.com/watch?v=XAyQMUSjs2w
 * Why selected: Built a large audience through LinkedIn and shares repeatable content systems for founders and professionals.
 
 ## 2. Dave Gerhardt
 
 * Company: Exit Five
 * LinkedIn: https://www.linkedin.com/in/davegerhardt/
-* YouTube: https://www.youtube.com/@ExitFive
+* YouTube: https://www.youtube.com/@ExitFiveCommunity
 * Why selected: Former Drift marketing leader and active B2B SaaS content creator focused on audience building.
 
 ## 3. Amanda Natividad
