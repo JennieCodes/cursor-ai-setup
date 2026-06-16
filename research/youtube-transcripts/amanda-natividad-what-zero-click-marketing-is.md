@@ -11,8 +11,6 @@
 **Video URL:**  
 https://www.youtube.com/watch?v=K0ATSFsV8yw
 
----ss
-
 ## Transcript Notes
 
 ### [00:00 - 02:00] What Zero Click Marketing Means
