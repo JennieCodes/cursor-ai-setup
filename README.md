@@ -1,94 +1,21 @@
-# Cursor AI Setup
+# LinkedIn Organic Content Strategy for B2B SaaS
 
-## Overview
+## Project Overview
 
-This repository documents the setup process for Cursor IDE, Claude Code, and Codex extensions.
+This project researches how successful B2B SaaS marketers use LinkedIn organic content to build audiences, create demand, and grow their businesses.
 
----
+## Research Goal
 
-## Tools Installed
+Identify common content strategies, frameworks, and distribution tactics used by leading B2B SaaS practitioners.
 
-* Cursor IDE
-* Claude Code extension
-* Codex extension
-* Git
-* GitHub
+## Repository Structure
 
----
+research/
+├── sources.md
+├── linkedin-posts/
+├── youtube-transcripts/
+└── other/
 
-## Steps Completed
+## Selected Experts
 
-### 1. Installed Cursor IDE
-
-Downloaded and installed Cursor successfully.
-
-### 2. Installed Claude Code Extension
-
-Installed the Claude Code extension inside Cursor and reached the authentication/setup screen.
-
-### 3. Installed Codex Extension
-
-Installed the Codex extension successfully inside Cursor.
-
-### 4. Created GitHub Repository
-
-Created a public GitHub repository for documenting the setup process.
-
-### 5. Opened Repository in Cursor
-
-Initialized and opened the repository locally inside Cursor IDE.
-
-### 6. Created Documentation
-
-Created this README file documenting tools, steps, and troubleshooting.
-
-### 7. Used Git for Version Control
-
-Committed and pushed the project to GitHub.
-
----
-
-## Issues Faced and Solutions
-
-### Issue: Claude Code authentication requirement
-
-After installation, Claude Code required either:
-
-* a Claude subscription, or
-* Anthropic API billing setup.
-
-Solution:
-Successfully completed the extension installation and documented the authentication requirement while continuing the remaining setup tasks.
-
-### Issue: README file saved outside repository folder
-
-Problem:
-The README.md file was initially saved in `C:\Users\jenny\` instead of inside the Git repository folder `C:\Users\jenny\cursor-ai-setup\`.
-
-This caused Git to show:
-
-* `nothing to commit`
-* `src refspec main does not match any`
-
-because the repository did not contain any tracked files.
-
-Solution:
-Moved the README.md file into the repository directory and reran Git commands to successfully track and push the repository contents.
-
-
----
-
-## Git Commands Used
-
-```bash id="e7"
-git init
-git add .
-git commit -m "Initial setup documentation"
-git push origin main
-```
-
----
-
-## Outcome
-
-Successfully configured an AI-assisted coding environment using Cursor IDE, AI extensions, Git, and GitHub.
+The project analyzes content from 10 B2B SaaS marketers, founders, and content operators including Justin Welsh, Dave Gerhardt, Amanda Natividad, Devin Reed, Ryan Law, and others.

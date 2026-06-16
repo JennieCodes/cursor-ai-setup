@@ -1,58 +1,71 @@
 # LinkedIn Organic Content Strategy for B2B SaaS
 
 ## 1. Justin Welsh
-Company: The Welsh Company
-LinkedIn: https://www.linkedin.com/in/justinwelsh/
-YouTube: https://www.youtube.com/@JustinWelsh
-Why selected: Built a large audience through LinkedIn and teaches content systems for professionals and founders.
+
+* Company: The Welsh Company
+* LinkedIn: https://www.linkedin.com/in/justinwelsh/
+* YouTube: https://www.youtube.com/@JustinWelsh
+* Why selected: Built a large audience through LinkedIn and shares repeatable content systems for founders and professionals.
 
 ## 2. Dave Gerhardt
-Company: Exit Five
-LinkedIn: https://www.linkedin.com/in/davegerhardt/
-YouTube: https://www.youtube.com/@ExitFive
-Why selected: Former Drift marketing leader and active B2B SaaS content creator.
+
+* Company: Exit Five
+* LinkedIn: https://www.linkedin.com/in/davegerhardt/
+* YouTube: https://www.youtube.com/@ExitFive
+* Why selected: Former Drift marketing leader and active B2B SaaS content creator focused on audience building.
 
 ## 3. Amanda Natividad
-Company: SparkToro
-LinkedIn: https://www.linkedin.com/in/amandanat/
-YouTube: https://www.youtube.com/@SparkToro
-Why selected: Shares audience research and organic growth strategies.
+
+* Company: SparkToro
+* LinkedIn: https://www.linkedin.com/in/amandanat/
+* YouTube: https://www.youtube.com/@SparkToro
+* Why selected: Shares audience research, organic growth, and content distribution strategies.
 
 ## 4. Ryan Law
-Company: Ahrefs
-LinkedIn: https://www.linkedin.com/in/thinkingslow/
-YouTube: https://www.youtube.com/@AhrefsCom
-Why selected: Publishes practical B2B SaaS content and SEO strategies.
+
+* Company: Ahrefs
+* LinkedIn: https://www.linkedin.com/in/thinkingslow/
+* YouTube: https://www.youtube.com/@AhrefsCom
+* Why selected: Publishes practical content marketing and SEO strategies for B2B SaaS companies.
 
 ## 5. Devin Reed
-Company: The Reeder
-LinkedIn: https://www.linkedin.com/in/devinreed/
-YouTube: https://www.youtube.com/@TheReederCo
-Why selected: Focuses on executive LinkedIn programs and B2B SaaS content systems.
+
+* Company: The Reeder
+* LinkedIn: https://www.linkedin.com/in/devinreed/
+* YouTube: https://www.youtube.com/@TheReederCo
+* Why selected: Focuses on executive LinkedIn programs, thought leadership, and B2B SaaS content systems.
 
 ## 6. Erin Balsa
-Company: Haus of Bold
-LinkedIn: https://www.linkedin.com/in/erinbalsa/
-YouTube: https://www.youtube.com/@hausofbold
-Why selected: Produces thought leadership and research-driven content for SaaS brands.
+
+* Company: Haus of Bold
+* LinkedIn: https://www.linkedin.com/in/erinbalsa/
+* YouTube: https://www.youtube.com/@hausofbold
+* Why selected: Produces research-driven content and thought leadership programs for SaaS brands.
 
 ## 7. Tommy Clark
-Company: Compound Content Studio
-LinkedIn: https://www.linkedin.com/in/tommyjclark/
-Why selected: Works on founder-led LinkedIn content and B2B startup content strategy.
+
+* Company: Compound Content Studio
+* LinkedIn: https://www.linkedin.com/in/tommyjclark/
+* YouTube: Not found
+* Why selected: Works on founder-led LinkedIn content and content strategy for B2B startups.
 
 ## 8. Brooklin Nash
-Company: Beam Content
-LinkedIn: https://www.linkedin.com/in/brooklin-nash/
-Why selected: Builds expert-led B2B content and executive social strategies.
+
+* Company: Beam Content
+* LinkedIn: https://www.linkedin.com/in/brooklin-nash/
+* YouTube: Not found
+* Why selected: Builds expert-led B2B content and executive social media programs.
 
 ## 9. Maeva Cifuentes
-Company: Flying Cat Marketing
-LinkedIn: https://www.linkedin.com/in/maevacifuentes/
-Why selected: Shares SaaS SEO and organic growth insights.
+
+* Company: Flying Cat Marketing
+* LinkedIn: https://www.linkedin.com/in/maevacifuentes/
+* YouTube: Not found
+* Why selected: Shares SaaS SEO, content marketing, and organic growth insights.
 
 ## 10. Tory Gray
-Company: Gray Dot Co
-LinkedIn: https://ca.linkedin.com/in/torygray
-YouTube: https://www.youtube.com/@GrayDotCo
-Why selected: Publishes about AI search, SEO, and content visibility.
+
+* Company: Gray Dot Co
+* LinkedIn: https://ca.linkedin.com/in/torygray
+* YouTube: https://www.youtube.com/@GrayDotCo
+* Why selected: Publishes content about SEO, AI search, and online visibility for B2B companies.
