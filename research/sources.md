@@ -18,7 +18,7 @@
 
 * Company: SparkToro
 * LinkedIn: https://www.linkedin.com/in/amandanat/
-* YouTube: https://www.youtube.com/@SparkToro
+* YouTube: https://www.youtube.com/@amandanat_
 * Why selected: Shares audience research, organic growth, and content distribution strategies.
 
 ## 4. Ryan Law
