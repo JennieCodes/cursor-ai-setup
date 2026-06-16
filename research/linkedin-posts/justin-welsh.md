@@ -11,7 +11,7 @@
 
 ## Post 1
 
-**Date:** 1 week ago  
+**Date:** June 9, 2026
 **Source URL:** https://www.linkedin.com/posts/justinwelsh_nobody-walks-away-from-a-550000-salary-activity-7467905019091156992-cu2-
 
 **Topic:** Founder Story / Personal Brand
@@ -29,7 +29,7 @@ Founder storytelling is effective on LinkedIn because it creates emotional conne
 
 ## Post 2
 
-**Date:** 1 week ago  
+**Date:** June 9, 2026
 **Source URL:** https://www.linkedin.com/posts/justinwelsh_ad-kajabipartner-activity-7468147114741628929-3rrr
 
 **Topic:** Product Promotion / AI Automation
@@ -47,7 +47,7 @@ B2B SaaS content works better when it sells outcomes first and features second. 
 
 ## Post 3
 
-**Date:** 2 weeks ago  
+**Date:** 2 June, 2026
 **Source URL:** https://www.linkedin.com/posts/justinwelsh_kajabipartner-activity-7465220433236246528-Atz7
 
 **Topic:** Audience Monetization / Partnership Marketing

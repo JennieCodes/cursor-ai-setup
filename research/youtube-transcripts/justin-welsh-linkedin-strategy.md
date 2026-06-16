@@ -1,7 +1,5 @@
 # Justin Welsh
 
-## Justin Welsh
-
 ## Video Details
 
 **Title:** How to Grow and Monetize Your LinkedIn Audience  

@@ -11,7 +11,7 @@
 
 ## Post 1
 
-**Date:** 6 days ago
+**Date:** June 10, 2026
 
 **Source URL:**  
 https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_
@@ -34,7 +34,7 @@ Data-backed insights are an effective LinkedIn strategy for establishing thought
 
 ## Post 2
 
-**Date:** 5 days ago
+**Date:** June 11, 2026
 
 **Source URL:**  
 https://www.linkedin.com/posts/davegerhardt_when-i-say-were-building-the-top-community-activity-7470791967061381121-6ijx
