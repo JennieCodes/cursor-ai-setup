@@ -65,4 +65,4 @@ Dave Gerhardt's content provides useful examples of B2B SaaS LinkedIn strategies
 - Educational content marketing
 - Demand generation
 
-These approaches demonstrate how LinkedIn can be used to build authority, engagement, and long-term relationships with B2B audiences.ss
+These approaches demonstrate how LinkedIn can be used to build authority, engagement, and long-term relationships with B2B audiences.
