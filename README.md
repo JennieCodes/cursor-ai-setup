@@ -1,47 +1,23 @@
 # B2B SaaS LinkedIn Organic Content Research
 
-## Project Goal
+This repository collects and analyzes public content from high-signal B2B SaaS marketers, creators, and operators to support a future LinkedIn organic growth playbook.
 
-Research and analyze content from experienced B2B SaaS marketers and operators to identify high-signal principles behind effective LinkedIn organic growth.
+The project focuses on practical strategy: audience positioning, founder-led content, demand creation, zero-click distribution, original research, AI-era content systems, and long-term brand authority.
 
-The collected material serves as a foundation for a future B2B SaaS LinkedIn playbook.
+## What Was Completed
 
----
+- 10 B2B SaaS content experts selected and documented
+- 6 LinkedIn expert analyses completed
+- 5 YouTube transcript analyses completed
+- Cross-expert strategic synthesis completed
+- Additional expert sources retained for future research expansion
 
-## Research Approach
+## Where To Start
 
-This research was completed using free AI tools, including Codex and GPT-based workflows, combined with manual collection and analysis of public content sources. Some collection steps that could be automated through advanced API-based workflows were completed manually while maintaining the focus on source quality and strategic analysis.
-
-The research includes:
-
-- 10 selected expert sources
-- Deep LinkedIn analysis for 6 priority experts
-- YouTube transcript notes for 5 priority topics
-- Strategic notes and insights
-- Cross-expert pattern synthesis
-
-For more detail, see:
-
-- [Research methodology](research/methodology.md)
-- [Expert coverage matrix](research/expert-matrix.md)
-- [Expert sources](research/sources.md)
-
----
-
-## Selected Experts
-
-- Justin Welsh - LinkedIn audience systems and authority building
-- Dave Gerhardt - B2B demand generation and community
-- Amanda Natividad - Zero-click marketing and audience research
-- Ryan Law - AI-era SEO and content systems
-- Devin Reed - thought leadership and content IP
-- Erin Balsa - original research and brand credibility
-- Tommy Clark - founder-led LinkedIn content strategy
-- Brooklin Nash - expert-led B2B content and executive social
-- Maeva Cifuentes - SaaS SEO and organic growth
-- Tory Gray - SEO, AI search, and online visibility
-
----
+1. [Research methodology](research/methodology.md) - how experts were selected and how the research was conducted
+2. [Expert sources](research/sources.md) - who was selected and why
+3. [Coverage matrix](research/coverage-matrix.md) - what research has been completed across experts and channels
+4. [Content strategy patterns](research/other/content-strategy-patterns.md) - strategic synthesis across the collected material
 
 ## Repository Structure
 
@@ -49,26 +25,13 @@ For more detail, see:
 research/
 |-- sources.md
 |-- methodology.md
-|-- expert-matrix.md
+|-- coverage-matrix.md
 |-- linkedin-posts/
 |-- youtube-transcripts/
 `-- other/
     `-- content-strategy-patterns.md
 ```
 
----
+## Key Takeaway
 
-## Key Patterns Identified
-
-- Strong content starts with a clear audience and point of view.
-- Demand is created before buyers are ready to purchase.
-- Zero-click platforms and AI search are changing discovery.
-- Original insights and research build authority.
-- AI improves content systems but does not replace expertise.
-- Content should be treated as a long-term brand asset.
-
----
-
-## Final Observation
-
-The strongest B2B SaaS content strategies focus less on volume and more on expertise, credibility, unique insights, and repeatable systems.
+The strongest B2B SaaS LinkedIn strategies are not built around volume alone. Across the research, the strongest patterns center on clear audience focus, credible expertise, original insight, native platform value, and repeatable content systems.
