@@ -21,13 +21,16 @@ Topic: Building Demand Before Buyers Enter the Sales Process
 Source URL:
 https://www.linkedin.com/posts/devinreed_the-vendor-shortlist-gets-built-before-activity-7471214763784712192-x6tZ
 
-Summary:
+### Summary:
+
 Devin argues that most GTM teams focus heavily on the 5% of buyers who are actively searching for a solution, while ignoring the 95% who are not yet ready to purchase but are already forming opinions about vendors. Through educational content that helps buyers understand their problems, companies can enter the buyer's consideration set before the first sales conversation.
 
-LinkedIn Content Insight:
+### LinkedIn Content Insight:
+
 The strongest B2B content does not always drive immediate conversions. It builds familiarity, trust, and category awareness long before a prospect requests a demo.
 
-Key Takeaway:
+### Key Takeaway:
+
 The goal of LinkedIn content is not only to capture existing demand but to create future demand by helping potential customers before they are ready to buy.
 
 ---
