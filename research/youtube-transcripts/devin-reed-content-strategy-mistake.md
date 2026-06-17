@@ -6,7 +6,7 @@
 
 **Creator:** Devin Reed | The Reeder
 
-**Date Published:** February 12, 2025
+**Published:** February 12, 2025
 
 **Video URL:** https://www.youtube.com/watch?v=Iz6nlTnZfJE
 
@@ -36,8 +36,8 @@ One of the strongest content strategies is creating "Content IP": a unique phras
 
 Examples discussed:
 
-- "Checkbox Marketing" — a phrase describing meaningless content production.
-- "Dark Social" and "Attribution Mirage" — concepts that explain hidden problems in B2B measurement.
+- "Checkbox Marketing" - a phrase describing meaningless content production.
+- "Dark Social" and "Attribution Mirage" - concepts that explain hidden problems in B2B measurement.
 
 The most memorable B2B brands do not just explain solutions; they give customers language to describe problems they already feel.
 

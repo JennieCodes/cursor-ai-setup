@@ -2,8 +2,8 @@
 
 ## Video Details
 
-**Title:** How to Grow and Monetize Your LinkedIn Audience  
-**Creator:** Justin Welsh  
+**Title:** How to Grow and Monetize Your LinkedIn Audience
+**Creator:** Justin Welsh
 **Video URL:** https://www.youtube.com/watch?v=D_12KNeS07k
 
 ---
@@ -16,13 +16,14 @@ Justin explains that LinkedIn should be treated as a social platform rather than
 
 ### [01:30 - 04:30] Building an Audience Through Meaningful Content
 
-He emphasizes that before creating products or services, professionals must first build a relevant audience. Meaningful content attracts people who are genuinely interested in the creator’s expertise and can later become customers.
+He emphasizes that before creating products or services, professionals must first build a relevant audience. Meaningful content attracts people who are genuinely interested in the creator's expertise and can later become customers.
 
 ### [12:20 - 18:30] The Importance of Choosing a Sub-Niche
 
 Justin argues that one of the biggest mistakes on LinkedIn is being too broad. Successful creators narrow their focus from a broad topic to a niche and finally to a specific sub-niche.
 
 Example:
+
 - Broad topic: Athletes
 - Niche: Runners
 - Sub-niche: Marathon runners
@@ -31,9 +32,10 @@ A focused niche makes it easier to become recognized as the go-to expert for a s
 
 ### [19:10 - 25:30] Create Content That Builds a Relevant Tribe
 
-Justin warns against chasing vanity metrics such as likes and viral engagement. He introduces the idea of “dollars over dopamine,” meaning content should attract people who are relevant to the business rather than simply generating attention.
+Justin warns against chasing vanity metrics such as likes and viral engagement. He introduces the idea of "dollars over dopamine," meaning content should attract people who are relevant to the business rather than simply generating attention.
 
 Three effective content approaches:
+
 - Teach practical knowledge.
 - Share strong opinions.
 - Entertain while maintaining a clear point of view.
@@ -51,6 +53,7 @@ The objective is to consistently provide value to a clearly defined group of peo
 ### [33:00 - 39:30] Converting Attention Into Business Opportunities
 
 Justin explains his lead-generation process:
+
 - Publish valuable LinkedIn content consistently.
 - Move interested audience members to owned channels such as email lists.
 - Offer free resources to build trust and paid offers for customers who are ready to purchase.

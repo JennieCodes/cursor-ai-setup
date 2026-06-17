@@ -8,8 +8,7 @@
 
 **Channel:** Zero Click Marketing
 
-**Video URL:**  
-https://www.youtube.com/watch?v=K0ATSFsV8yw
+**Video URL:** https://www.youtube.com/watch?v=K0ATSFsV8yw
 
 ## Transcript Notes
 

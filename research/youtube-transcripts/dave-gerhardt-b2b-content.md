@@ -2,8 +2,8 @@
 
 ## Video Details
 
-**Title:** Content, Community, and Building a 200,000+ B2B Audience  
-**Creator:** Dave Gerhardt  
+**Title:** Content, Community, and Building a 200,000+ B2B Audience
+**Creator:** Dave Gerhardt
 **Video URL:** https://www.youtube.com/watch?v=S3jOSiE6l80
 
 ---
@@ -24,9 +24,9 @@ High-performing LinkedIn posts provide direct feedback about what the audience c
 
 ### [15:00 - 18:00] Audience Research and Community Feedback
 
-Dave’s content ideas come from real industry experience, podcast conversations, and discussions inside the Exit Five community. He believes the best content starts with understanding the questions and problems the audience already has.
+Dave's content ideas come from real industry experience, podcast conversations, and discussions inside the Exit Five community. He believes the best content starts with understanding the questions and problems the audience already has.
 
-### [19:00 - 25:00] Dave’s LinkedIn Content System
+### [19:00 - 25:00] Dave's LinkedIn Content System
 
 His approach includes:
 
@@ -40,7 +40,7 @@ He explains that people grow faster on LinkedIn when they become known for a spe
 
 ### [29:00 - 32:00] Creating a B2B Content Flywheel
 
-Dave describes podcasts as a “Trojan horse” for content creation. A single interview can generate social posts, newsletters, articles, and community discussions, allowing a small team to continuously produce valuable content.
+Dave describes podcasts as a "Trojan horse" for content creation. A single interview can generate social posts, newsletters, articles, and community discussions, allowing a small team to continuously produce valuable content.
 
 ---
 

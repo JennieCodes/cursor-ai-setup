@@ -2,10 +2,9 @@
 
 ## Profile
 
+**Name:** Erin Balsa
 **Company:** Haus of Bold
-
 **LinkedIn:** https://www.linkedin.com/in/erinbalsa/
-
 **Website:** https://www.hausofbold.com/
 
 ---
@@ -13,14 +12,13 @@
 ## Post 1
 
 **Date:** June 12, 2026
-
 **Source URL:** https://www.linkedin.com/posts/erinbalsa_a-lot-of-b2b-tech-companies-get-to-10-30m-activity-7471157607622316032-Gfbv
 
 **Topic:** Using Original Research to Scale Beyond Founder-Led Growth
 
 ### Summary
 
-Erin explains that many B2B technology companies initially reach $10M–$30M ARR through founder relationships, referrals, and existing networks. However, as the company grows, the founder’s reputation alone becomes insufficient for continued expansion. Original research can help bridge this reputation gap by providing evidence-based insights that establish the company itself as a trusted authority in its category.
+Erin explains that many B2B technology companies initially reach $10M-$30M ARR through founder relationships, referrals, and existing networks. However, as the company grows, the founder's reputation alone becomes insufficient for continued expansion. Original research can help bridge this reputation gap by providing evidence-based insights that establish the company itself as a trusted authority in its category.
 
 ### LinkedIn Content Insight
 
@@ -35,10 +33,9 @@ As B2B SaaS companies mature, they must transition from relying on founder credi
 ## Post 2
 
 **Date:** June 16, 2026
-
 **Source URL:** https://www.linkedin.com/posts/erinbalsa_how-to-publish-a-data-backed-research-report-activity-7472600113585238016-q_SK
 
-**Topic:** Why Research Credibility Matters More Than a “Data-Backed” Label
+**Topic:** Why Research Credibility Matters More Than a "Data-Backed" Label
 
 ### Summary
 
