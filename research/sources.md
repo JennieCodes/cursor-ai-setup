@@ -1,4 +1,8 @@
-# LinkedIn Organic Content Strategy for B2B SaaS
+# Expert Sources
+
+The following experts were selected based on their experience in B2B SaaS content, SEO, thought leadership, and organic growth.
+
+The repository includes deep analysis of a subset of these experts chosen for their strongest relevance to the initial playbook foundation, while the remaining experts provide additional directions for future research.
 
 ## 1. Justin Welsh
 
